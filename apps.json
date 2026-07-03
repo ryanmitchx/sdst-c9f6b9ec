@@ -1,0 +1,95 @@
+{
+  "name": "Ryan's Apps",
+  "identifier": "fyi.contrail.sidestore.source",
+  "sourceURL": "https://ryanmitchx.github.io/sdst-c9f6b9ec/apps.json",
+  "apps": [
+    {
+      "name": "SkateTracker",
+      "bundleIdentifier": "com.skatetracker.app",
+      "developerName": "Ryan Mitchell",
+      "subtitle": "Sky Rink session & cost tracker",
+      "localizedDescription": "Track figure skating freestyle sessions and skating costs at Sky Rink, Chelsea Piers.",
+      "tintColor": "2E8BE0",
+      "category": "lifestyle",
+      "version": "1.7.1",
+      "versionDate": "2026-06-16",
+      "downloadURL": "https://ryanmitchx.github.io/sdst-c9f6b9ec/SkateTracker.ipa",
+      "size": 1157853,
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "1.7.1",
+          "date": "2026-06-16",
+          "localizedDescription": "Track figure skating freestyle sessions and skating costs at Sky Rink, Chelsea Piers.",
+          "downloadURL": "https://ryanmitchx.github.io/sdst-c9f6b9ec/SkateTracker.ipa",
+          "size": 1157853,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "iconURL": "https://ryanmitchx.github.io/sdst-c9f6b9ec/skatetracker-icon.png"
+    },
+    {
+      "name": "Trunk",
+      "bundleIdentifier": "app.trunk.app",
+      "developerName": "Ryan Mitchell",
+      "subtitle": "Smart packing lists that remember what you own",
+      "localizedDescription": "Maintain an inventory of items and kits, plan multi-leg trips with per-port dates and weather, and get a thorough, checkbox-able packing list that learns from how you pack.",
+      "tintColor": "0A84FF",
+      "category": "utilities",
+      "version": "0.2.19",
+      "versionDate": "2026-06-30",
+      "downloadURL": "https://ryanmitchx.github.io/sdst-c9f6b9ec/Trunk.ipa",
+      "size": 3471703,
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "0.2.19",
+          "date": "2026-06-30",
+          "localizedDescription": "Maintain an inventory of items and kits, plan multi-leg trips with per-port dates and weather, and get a thorough, checkbox-able packing list that learns from how you pack.",
+          "downloadURL": "https://ryanmitchx.github.io/sdst-c9f6b9ec/Trunk.ipa",
+          "size": 3471703,
+          "minOSVersion": "26.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "iconURL": "https://ryanmitchx.github.io/sdst-c9f6b9ec/trunk-icon.png"
+    },
+    {
+      "name": "Contrail",
+      "bundleIdentifier": "fyi.contrail.app",
+      "developerName": "Ryan Mitchell",
+      "subtitle": "Flight fare-class & cruise price tracker",
+      "localizedDescription": "Track airline fare classes and cruise prices.",
+      "tintColor": "1E66F5",
+      "category": "travel",
+      "version": "0.1.16",
+      "versionDate": "2026-07-03",
+      "downloadURL": "https://ryanmitchx.github.io/sdst-c9f6b9ec/Contrail.ipa",
+      "size": 2529813,
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "0.1.16",
+          "date": "2026-07-03",
+          "localizedDescription": "Track airline fare classes and cruise prices.",
+          "downloadURL": "https://ryanmitchx.github.io/sdst-c9f6b9ec/Contrail.ipa",
+          "size": 2529813,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "iconURL": "https://ryanmitchx.github.io/sdst-c9f6b9ec/contrail-icon.png"
+    }
+  ],
+  "news": []
+}
