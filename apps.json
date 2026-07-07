@@ -69,18 +69,18 @@
       "localizedDescription": "Track airline fare classes and cruise prices.",
       "tintColor": "1E66F5",
       "category": "travel",
-      "version": "0.1.20",
+      "version": "0.1.21",
       "versionDate": "2026-07-07",
       "downloadURL": "https://ryanmitchx.github.io/sdst-c9f6b9ec/Contrail.ipa",
-      "size": 2617219,
+      "size": 2675063,
       "screenshotURLs": [],
       "versions": [
         {
-          "version": "0.1.20",
+          "version": "0.1.21",
           "date": "2026-07-07",
           "localizedDescription": "Track airline fare classes and cruise prices.",
           "downloadURL": "https://ryanmitchx.github.io/sdst-c9f6b9ec/Contrail.ipa",
-          "size": 2617219,
+          "size": 2675063,
           "minOSVersion": "17.0"
         }
       ],
